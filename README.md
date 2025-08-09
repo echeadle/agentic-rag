@@ -2,9 +2,9 @@
 
 YouTube: [The Future of RAG is Agentic - Learn this Strategy NOW](https://www.youtube.com/watch?v=_R-ff4ZMLC8)
 
-YouTube: [Turn ANY Website into LLM Knowledge in SECONDS]("https://www.youtube.com/watch?v=JWfNLF_g_V0")
+YouTube: [Turn ANY Website into LLM Knowledge in SECONDS](https://www.youtube.com/watch?v=JWfNLF_g_V0)
 
-YouTube: [Turn ANY Website into LLM Knowledge in Seconds - EVOLVED ]("https://www.youtube.com/watch?v=FQlCWrsUpHo)
+YouTube: [Turn ANY Website into LLM Knowledge in Seconds - EVOLVED](https://www.youtube.com/watch?v=FQlCWrsUpHo)
 
 Weaviate: [What is Agentic Rag](https://weaviate.io/blog/what-is-agentic-rag)
 
