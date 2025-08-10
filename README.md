@@ -6,6 +6,8 @@ YouTube: [Turn ANY Website into LLM Knowledge in SECONDS](https://www.youtube.co
 
 YouTube: [Turn ANY Website into LLM Knowledge in Seconds - EVOLVED](https://www.youtube.com/watch?v=FQlCWrsUpHo)
 
+Crawl4AI Documentation: [crawl4ai](https://crawl4ai.com/)
+
 Weaviate: [What is Agentic Rag](https://weaviate.io/blog/what-is-agentic-rag)
 
 Cole's website: [oTTomator](https://studio.ottomator.ai/)
